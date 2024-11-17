@@ -9,15 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-Will fill in later.
+We're replicating the core of Eyeriss with fewer PEs and no config chain
 
 ## How to test
 
-Explain how to use your project
-Will fill in later.
+We'll add some details when we get this working.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
-Will fill in later.
+Probably will use external RAM. Will fill in later.
